@@ -1,0 +1,19 @@
+{
+  "name": "ob_cc_reg",
+  "shortLabel": "ob_cc_reg",
+  "exprMatrix": "exprMatrix.tsv.gz",
+  "meta": "meta.tsv",
+  "geneIdType": "auto",
+  "clusterField": "Cluster",
+  "labelField": "Cluster",
+  "enumFields": [
+    "Cluster"
+  ],
+  "coords": [
+    {
+      "file": "/sfs/qumulo/qproject/farber_lab/will/Seurat_CELLECT/ob_analysis/pca.coords.tsv",
+      "shortLabel": "Seurat pca"
+    }
+  ],
+  "inDir": ""
+}
